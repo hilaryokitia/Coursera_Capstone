@@ -1,0 +1,13 @@
+Coursera_Capstone Repository URL
+git@github.com:hilaryokitia/Coursera_Capstone.git
+
+git clone git@github.com:hilaryokitia/Coursera_Capstone.git
+
+cd ~/Desktop/projects/Coursera_Capstone
+
+8e87b88e8a964d4eaa18f7be24352861e00b42a3  (Github Token for Jupyter)
+
+https://github.com/hilaryokitia/Coursera_Capstone/commit/e1ac468dec90470440a422478c9f7064df5338c4    (Github published url)
+
+
+git config --global user.email "hilaryokitia@gmail.com"
